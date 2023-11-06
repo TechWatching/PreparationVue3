@@ -1,7 +1,0 @@
-- Mastodon : @techwatching@mas.to
-- Tweet Evan You : https://twitter.com/youyuxi/status/1629099142214713344
-- VueUse : https://vueuse.org/
-- VueUse playground : https://play.vueuse.org/
-- Vue : https://vuejs.org/
-- Open Feedback : https://drp.li/Ed1od
-- blog : https://techwatching.dev
