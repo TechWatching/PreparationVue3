@@ -1,3 +1,5 @@
+# Vue 3 : 5 choses à ne pas perdre de Vue
+
 ## Plan
 
 Intro
@@ -37,7 +39,7 @@ Conclusion
 
 ## Mindmap Vue
 
-```mermaid {theme:'forest'}
+```mermaid {theme:'forest', scale:0.8}
 mindmap
   root((Vue 3))
     (Composition API)
